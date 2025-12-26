@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468FE519-E2B7-4739-BA3A-70F583AD20A5}|LabPractice\\LabPractice.csproj|E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\labpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468FE519-E2B7-4739-BA3A-70F583AD20A5}|LabPractice\\LabPractice.csproj|solutionrelative:labpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468FE519-E2B7-4739-BA3A-70F583AD20A5}|LabPractice\\LabPractice.csproj|e:\\7th semester\\c#\\mid\\lab\\labpractice\\labpractice\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468FE519-E2B7-4739-BA3A-70F583AD20A5}|LabPractice\\LabPractice.csproj|solutionrelative:labpractice\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468FE519-E2B7-4739-BA3A-70F583AD20A5}|LabPractice\\LabPractice.csproj|E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\labpractice\\desktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468FE519-E2B7-4739-BA3A-70F583AD20A5}|LabPractice\\LabPractice.csproj|solutionrelative:labpractice\\desktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\LabPractice\\Computer.cs",
+              "RelativeDocumentMoniker": "LabPractice\\Computer.cs",
+              "ToolTip": "E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\LabPractice\\Computer.cs*",
+              "RelativeToolTip": "LabPractice\\Computer.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:00:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Desktop.cs",
+              "DocumentMoniker": "E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\LabPractice\\Desktop.cs",
+              "RelativeDocumentMoniker": "LabPractice\\Desktop.cs",
+              "ToolTip": "E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\LabPractice\\Desktop.cs",
+              "RelativeToolTip": "LabPractice\\Desktop.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:00:49.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\LabPractice\\Program.cs",
+              "RelativeDocumentMoniker": "LabPractice\\Program.cs",
+              "ToolTip": "E:\\7th Semester\\C#\\Mid\\Lab\\LabPractice\\LabPractice\\Program.cs*",
+              "RelativeToolTip": "LabPractice\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:00:10.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

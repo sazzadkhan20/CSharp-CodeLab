@@ -1,0 +1,7 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\ClassObject\bin\Debug\ClassObject.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\ClassObject\bin\Debug\ClassObject.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\ClassObject\bin\Debug\ClassObject.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\ClassObject\obj\Debug\ClassObject.csproj.AssemblyReference.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\ClassObject\obj\Debug\ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\ClassObject\obj\Debug\ClassObject.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\ClassObject\obj\Debug\ClassObject.pdb

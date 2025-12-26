@@ -1,0 +1,6 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Task2\Task2\obj\Debug\Task2.pdb

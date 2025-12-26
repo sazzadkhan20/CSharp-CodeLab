@@ -1,0 +1,7 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Input\Input\bin\Debug\Input.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Input\Input\bin\Debug\Input.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Input\Input\bin\Debug\Input.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Input\Input\obj\Debug\Input.csproj.AssemblyReference.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Input\Input\obj\Debug\Input.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Input\Input\obj\Debug\Input.pdb

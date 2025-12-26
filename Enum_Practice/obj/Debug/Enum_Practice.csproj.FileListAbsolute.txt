@@ -1,0 +1,7 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Enum_Practice\bin\Debug\Enum_Practice.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Enum_Practice\bin\Debug\Enum_Practice.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Enum_Practice\bin\Debug\Enum_Practice.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Enum_Practice\obj\Debug\Enum_Practice.csproj.AssemblyReference.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Enum_Practice\obj\Debug\Enum_Practice.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Enum_Practice\obj\Debug\Enum_Practice.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Enum_Practice\obj\Debug\Enum_Practice.pdb

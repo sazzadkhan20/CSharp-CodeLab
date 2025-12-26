@@ -1,0 +1,7 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Jaggedarray_3D\bin\Debug\Jaggedarray_2D.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Jaggedarray_3D\bin\Debug\Jaggedarray_2D.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Jaggedarray_3D\bin\Debug\Jaggedarray_2D.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Jaggedarray_3D\obj\Debug\Jaggedarray_2D.csproj.AssemblyReference.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Jaggedarray_3D\obj\Debug\Jaggedarray_2D.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Jaggedarray_3D\obj\Debug\Jaggedarray_2D.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Jaggedarray_3D\obj\Debug\Jaggedarray_2D.pdb

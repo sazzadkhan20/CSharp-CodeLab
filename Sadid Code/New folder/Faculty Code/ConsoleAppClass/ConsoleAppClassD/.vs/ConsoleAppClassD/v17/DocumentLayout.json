@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F91C20-B7FC-4DA6-AF78-11FCF7E125AC}|ConsoleAppClassD\\ConsoleAppClassD.csproj|E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\consoleappclassd\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F91C20-B7FC-4DA6-AF78-11FCF7E125AC}|ConsoleAppClassD\\ConsoleAppClassD.csproj|solutionrelative:consoleappclassd\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F91C20-B7FC-4DA6-AF78-11FCF7E125AC}|ConsoleAppClassD\\ConsoleAppClassD.csproj|e:\\7th semester\\c#\\mid\\lab\\faculty code\\consoleappclass\\consoleappclassd\\consoleappclassd\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F91C20-B7FC-4DA6-AF78-11FCF7E125AC}|ConsoleAppClassD\\ConsoleAppClassD.csproj|solutionrelative:consoleappclassd\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F91C20-B7FC-4DA6-AF78-11FCF7E125AC}|ConsoleAppClassD\\ConsoleAppClassD.csproj|E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\consoleappclassd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F91C20-B7FC-4DA6-AF78-11FCF7E125AC}|ConsoleAppClassD\\ConsoleAppClassD.csproj|solutionrelative:consoleappclassd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleAppClassD||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\ConsoleAppClassD\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppClassD\\Program.cs",
+              "ToolTip": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\ConsoleAppClassD\\Program.cs",
+              "RelativeToolTip": "ConsoleAppClassD\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwHMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:04:33.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice.cs",
+              "DocumentMoniker": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\ConsoleAppClassD\\Practice.cs",
+              "RelativeDocumentMoniker": "ConsoleAppClassD\\Practice.cs",
+              "ToolTip": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\ConsoleAppClassD\\Practice.cs",
+              "RelativeToolTip": "ConsoleAppClassD\\Practice.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:10:11.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleAppClassD",
+              "DocumentMoniker": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\ConsoleAppClassD\\ConsoleAppClassD.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppClassD\\ConsoleAppClassD.csproj",
+              "ToolTip": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\ConsoleAppClassD\\ConsoleAppClassD.csproj",
+              "RelativeToolTip": "ConsoleAppClassD\\ConsoleAppClassD.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T20:11:55.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\ConsoleAppClassD\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleAppClassD\\Student.cs",
+              "ToolTip": "E:\\7th Semester\\C#\\Mid\\Lab\\Faculty Code\\ConsoleAppClass\\ConsoleAppClassD\\ConsoleAppClassD\\Student.cs",
+              "RelativeToolTip": "ConsoleAppClassD\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:03:31.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

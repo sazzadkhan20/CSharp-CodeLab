@@ -1,0 +1,7 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Lab_Task_3_1\bin\Debug\Lab_Task_3_1.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Lab_Task_3_1\bin\Debug\Lab_Task_3_1.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Lab_Task_3_1\bin\Debug\Lab_Task_3_1.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Lab_Task_3_1\obj\Debug\Lab_Task_3_1.csproj.AssemblyReference.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Lab_Task_3_1\obj\Debug\Lab_Task_3_1.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Lab_Task_3_1\obj\Debug\Lab_Task_3_1.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Mid Term\C# Code\Lab_Task_3_1\obj\Debug\Lab_Task_3_1.pdb

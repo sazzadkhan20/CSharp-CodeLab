@@ -1,0 +1,7 @@
+E:\7th Semester\C#\Mid\Lab\Lab task 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\7th Semester\C#\Mid\Lab\Lab task 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\7th Semester\C#\Mid\Lab\Lab task 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\7th Semester\C#\Mid\Lab\Lab task 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\7th Semester\C#\Mid\Lab\Lab task 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\7th Semester\C#\Mid\Lab\Lab task 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\7th Semester\C#\Mid\Lab\Lab task 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

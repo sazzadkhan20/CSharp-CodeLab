@@ -1,0 +1,7 @@
+E:\7th Semester\C#\Mid\Lab\LabTask2\LabTask2\bin\Debug\LabTask2.exe.config
+E:\7th Semester\C#\Mid\Lab\LabTask2\LabTask2\bin\Debug\LabTask2.exe
+E:\7th Semester\C#\Mid\Lab\LabTask2\LabTask2\bin\Debug\LabTask2.pdb
+E:\7th Semester\C#\Mid\Lab\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.AssemblyReference.cache
+E:\7th Semester\C#\Mid\Lab\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.CoreCompileInputs.cache
+E:\7th Semester\C#\Mid\Lab\LabTask2\LabTask2\obj\Debug\LabTask2.exe
+E:\7th Semester\C#\Mid\Lab\LabTask2\LabTask2\obj\Debug\LabTask2.pdb
